@@ -1,0 +1,117 @@
+html {
+
+	background: url(1614438314_11-p-temnii-gorod-fon-18.jpg) no-repeat center center fixed;
+	 -webkit-background-size: cover;
+       -moz-background-size: cover;
+       -o-background-size: cover;
+       background-size: cover;}
+body {
+  margin: 0 0 0 0;}
+
+h1 {
+	text-align: center;
+	left: 50%;
+}
+
+p {
+	margin: left 50;
+	font-family: Comic Sans MS;
+}
+
+a {
+	color: blue;
+	opacity: 0.9;
+}
+
+
+.topnav {
+    background-color: gray;
+    overflow: hidden;
+}
+
+
+.topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+
+
+.topnav a.active {
+    background-color: #4CAF50;
+    color: white;
+}
+
+
+
+
+.wrapper {
+	text-align: center;
+	margin-top: 5%;
+	margin-left: 30%;
+	margin-right: 30%;
+
+}
+
+p {border-style: solid;
+background-color: gray;
+opacity: 0.88;
+}
+
+.ptop{
+	margin-top: 5%;
+}
+.footer {
+
+  position:static;
+
+  bottom:0;
+
+  left:0;
+
+  width:100%;
+
+  height: 90px;
+  background-color: gray;
+  text-align: center;
+  padding-top: 3%;
+  font-size: 20px;
+}
+
+.america {
+	margin-top: 10%;
+}
+
+.hosted{
+	text-align: center;
+}
+
+.cft {
+	margin-left: 10%;
+	margin-right: 10%;
+	color: #ff0000;
+}
+
+a.knopka {
+  color: blue; /* цвет текста */
+  text-decoration: none; /* убираетподчёркивание у ссылок */
+  user-select: none; /* убирает выделение текста */
+  background-color: #c0c0c0; /* фон кнопки */
+  padding: .7em 1.5em; /* отступ от текста */
+  text-align: center;
+  opacity: 0.5;
+  
+} 
+a.knopka:hover { background-color: blue; } /* при наведении курсора мышки */
+a.knopka:active { background: rgb(152,15,0); } /* при нажатии */
+a.knopka:hover { color: red; }
+
+.img{
+	height: 300px;
+	width: 450px;
+}
+
